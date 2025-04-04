@@ -38,7 +38,7 @@ CMD ["java","-jar","/usr/app/demo-0.0.1-SNAPSHOT.jar"]
 
 Expected result:
 
-
+'
   .   ____          _            __ _ _
  /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
 ( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
@@ -53,7 +53,7 @@ n v0.0.1-SNAPSHOT on 862a2417022a with PID 1 (/usr/app/demo-0.0.1-SNAPSHOT.jar s
 falling back to default profiles: default
 2020-02-04 06:49:04.913  INFO 1 --- [           main] com.example.demo.DemoApplication         : Started DemoApplication
  in 1.085 seconds (JVM running for 1.589)
-
+'
 ***Misc***
 
 Maven can be optimized to use local/remote repository to cache artifacts. https://hub.docker.com/_/maven
